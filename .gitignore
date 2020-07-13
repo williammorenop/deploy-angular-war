@@ -1,0 +1,10 @@
+target/
+
+*.js
+*.css
+*.ico
+*.html
+*.txt
+
+dist/assets
+!dist/WEB-INF
